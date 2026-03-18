@@ -1,61 +1,108 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A8B8&size=26&center=true&vCenter=true&width=700&lines=Hey...+I'm+Ryo;A+Mobile+Developer;Still+learning...+still+growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F78CA0&size=28&center=true&vCenter=true&width=800&lines=...Hey;I'm+Ryo;Just+a+developer...;trying+to+build+something+that+matters" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Somewhere between logic and emotion…  
+  I started to build.”</i>
 </p>
 
 ---
 
 # 🌸 Ryo
 
-> In a world full of complex systems and endless possibilities...
-> I chose to build something simple — something meaningful.
+```text
+There was a time when everything felt uncertain.
+Code was just... code.
+Design was just... visuals.
 
-I’m a mobile developer who focuses on creating applications that feel natural, intuitive, and alive.
+But the more I built,
+the more I realized—
 
-Not just functional — but something people can *feel*.
-
----
-
-## ⚡ Abilities
-
-* 📱 Flutter — crafting mobile experiences
-* 🌐 Next.js, Node.js, TypeScript — exploring beyond mobile
-* 🎨 Figma — shaping ideas into visuals
-* ☁️ Supabase, Firebase — bringing apps to life
+Even the smallest interaction
+can carry meaning.
+```
 
 ---
 
-## 🌙 Story
+## ⚡ [ SYSTEM // STATUS ]
 
-Some people express themselves through words.
-Others through music.
-
-I build.
-
-Each project is a reflection of what I learn,
-what I feel,
-and how I see the world.
+```diff
++ Role        :: Mobile Developer
++ Speciality  :: Flutter
++ Secondary   :: Web & UI/UX Design
++ State       :: Learning... evolving... refining...
+```
 
 ---
 
-## ✨ Current Path
+## 🧩 [ TOOLSET ]
 
-> “Step by step… even if it’s slow, I’ll get there.”
+```yaml
+mobile:
+  - Flutter
 
-* Becoming better at mobile development
-* Understanding design more deeply
-* Moving toward becoming a software architect
+web:
+  - Next.js
+  - Node.js
+  - TypeScript
+
+design:
+  - Figma
+
+backend:
+  - Supabase
+  - Firebase
+```
 
 ---
 
-## 🎌 Side of Me
+## 🌙 [ INNER MONOLOGUE ]
 
-* Loves romance anime & quiet stories
-* Finds beauty in small details
-* Believes simplicity is the hardest thing to master
+> I don’t just want to build applications.
+> I want to create something that feels *right*.
+
+> Something simple.
+> Something quiet.
+> Something… meaningful.
+
+---
+
+## 🚀 [ PATH ]
+
+```text
+Not the fastest.
+Not the best.
+
+But still moving forward —
+one step at a time.
+```
+
+---
+
+## 🎌 [ PERSONAL DATA ]
+
+```ini
+interest = anime (romance, slice of life)
+focus    = technology + design
+goal     = software architect
+status   = still learning
+```
 
 ---
 
 <p align="center">
-  <i>“Maybe it’s not about building something big…  
-  but building something that matters.”</i>
+  <i>
+  “Maybe one day…  
+  the things I build  
+  will tell a story of their own.”
+  </i>
+</p>
+
+---
+
+<p align="center">
+  🌸
 </p>
