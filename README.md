@@ -1,24 +1,36 @@
-# Hey there, I'm Ryo
+<!-- Anime Typing Effect -->
 
-A developer focused on building clean and user-friendly mobile applications.
-
-I mainly work with Flutter, while also exploring web development and UI/UX design.
-I enjoy turning ideas into real products with simple, functional, and well-designed experiences.
-
----
-
-## Tech & Tools
-
-* Flutter (Mobile Development)
-* Web Development (Next.js, Node.js, TypeScript)
-* UI/UX Design (Figma)
-* Supabase, Firebase
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&size=26&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ryo;Mobile+Developer;Anime+%2B+Romance+Enthusiast" />
+</p>
 
 ---
 
-## About Me
+# 🌸 Ryo
 
-* 🎌 anime fans, especially those of the romantic genre
-* 💡 Interested in tech & design
-* 🎯 Goal: Becoming a software architect
-* 🚀 Always learning and building
+A mobile developer who enjoys building clean, simple, and meaningful applications.
+
+Inspired by calm moments, emotional stories, and the beauty of well-crafted experiences — both in technology and in anime.
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,nodejs,ts,firebase,supabase,figma" />
+</p>
+
+---
+
+## 🌙 About Me
+
+* 🎌 Anime enthusiast (romance & slice of life)
+* 💡 Interested in technology and design
+* 🎯 Aspiring software architect
+* 🚀 Always learning, slowly but surely
+
+---
+
+## ✨ Philosophy
+
+> “Simple things, done well, can create meaningful experiences.”
